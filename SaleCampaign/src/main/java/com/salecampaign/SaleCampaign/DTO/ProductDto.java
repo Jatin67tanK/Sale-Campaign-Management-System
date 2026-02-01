@@ -1,7 +1,7 @@
 package com.salecampaign.SaleCampaign.DTO;
 
 import jakarta.persistence.Column;
-import jakarta.validation.constraints.*;
+    import jakarta.validation.constraints.*;
 
 
 public class ProductDto {
